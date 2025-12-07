@@ -22,7 +22,7 @@ This project demonstrates end-to-end Big Data analytics using **MongoDB**, inclu
 
 ---
 
-## 📌 Project Objectives
+##  Project Objectives
 - Load and analyse a retail transactions dataset using MongoDB  
 - Model data as documents and collections  
 - Use Aggregation Pipelines to compute KPIs  
@@ -49,5 +49,6 @@ airbnb-mongodb-analysis/
 │   └── Airbnb_Sydney_Montreal_Analysis_MongoDB.ipynb  # Main analysis notebook
 ├── README.md                         # Project documentation
 └── requirements.txt                  # Python dependencies
+
 
 
