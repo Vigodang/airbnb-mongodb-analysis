@@ -26,9 +26,8 @@ This repository serves as a portfolio project demonstrating proficiency in **NoS
 
 ```text
 airbnb-mongodb-analysis/
-├── data/
-│   └── Dataset sample or link to source
 ├── notebooks/
 │   └── Airbnb_Sydney_Montreal_Analysis_MongoDB.ipynb  # Main analysis notebook
 ├── README.md                         # Project documentation
 └── requirements.txt                  # Python dependencies
+
