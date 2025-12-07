@@ -12,6 +12,25 @@ This repository serves as a portfolio project demonstrating proficiency in **NoS
 
 ---
 
+# MongoDB Big Data Analytics – Retail Transaction Project  
+This project demonstrates end-to-end Big Data analytics using **MongoDB**, including:
+- Data ingestion of large JSON datasets  
+- Cleaning and modelling for document databases  
+- Aggregation Framework queries  
+- MapReduce operations  
+- Exploratory analytics (top-selling products, revenue trends, customer behaviour)
+
+---
+
+## 📌 Project Objectives
+- Load and analyse a retail transactions dataset using MongoDB  
+- Model data as documents and collections  
+- Use Aggregation Pipelines to compute KPIs  
+- Compare MapReduce vs Aggregation  
+- Produce business insights for retail decision-making  
+
+---
+
 ##  Key Features & Technical Highlights
 
 * **Complex Data Aggregation:** Utilized MongoDB's Aggregation Framework (`$match`, `$group`, `$unwind`, `$bucket`) to calculate statistical metrics (min, max, avg prices) across different property types.
@@ -30,4 +49,5 @@ airbnb-mongodb-analysis/
 │   └── Airbnb_Sydney_Montreal_Analysis_MongoDB.ipynb  # Main analysis notebook
 ├── README.md                         # Project documentation
 └── requirements.txt                  # Python dependencies
+
 
